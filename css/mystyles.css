@@ -1,0 +1,33 @@
+body{
+    color: black;
+    background-color: rosybrown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    text-align: center;
+    font-size: large;
+    color: black;
+    padding-top: 10px;
+
+}
+.center{
+    justify-content: center;
+    display: flex;
+}
+a:hover{
+    font-size: 110%;
+    background-color: blanchedalmond;
+    color: black;
+}
+.holidays{
+    font-size: 200%;
+    color:silver ;
+    font-family: cursive;
+}
+.underline{
+    text-decoration: underline;
+}
